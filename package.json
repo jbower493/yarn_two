@@ -1,0 +1,17 @@
+{
+    "name": "yarn_two",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "packageManager": "yarn@3.2.0",
+    "scripts": {
+        "start": "parcel public/index.html"
+    },
+    "dependencies": {
+        "react": "^18.1.0",
+        "react-dom": "^18.1.0"
+    },
+    "devDependencies": {
+        "parcel": "^2.5.0"
+    }
+}
